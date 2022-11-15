@@ -3,12 +3,6 @@
 * {
     font-family: 'Dosis', sans-serif;
     background-color: rgb(254, 200, 238);
-    box-sizing: border-box 
-}
-
-html, body {
-    margin: 0;
-    padding: 0; 
 }
 
 .logo {
@@ -18,10 +12,11 @@ html, body {
 }
 
 .nav li {
-    display: inline;       
+    display: inline;
+    float:left;
+    width: 33.33%     
 }
 
 img {
-    height:33%;
-    width:33%
+   width : 100%
 }
