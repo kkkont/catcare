@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
+
 * {
     box-sizing: border-box;
     font-family: 'Dosis', sans-serif; 
     color: #777;
     text-align:justify
 }
-
 html, body {
     margin: 0;
     padding: 0; 
@@ -31,7 +31,6 @@ header, footer{
     color:rgb(227, 94, 127);
     font-size: 300%;
 }
-
 .nav ul {
     margin: 0;
 }
@@ -59,20 +58,3 @@ header, footer{
     padding: 10px;
 }
 
-.cat_img{
-    height:100%;
-    width:100%
-}
-
-.pildid ul {
-    margin:0;
-}
-
-.pildid li {
-    display:inline-block;
-    border-bottom:  30px solid rgb(255, 231, 248)
-}
-
-.tabel{
-    border: 5px solid rgb(254, 200, 238)
-}
