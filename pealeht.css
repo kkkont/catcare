@@ -45,10 +45,6 @@
 	animation: text 2s 1;
 }
 
-#nav:after {
-	content: "";
-	clear: both;
-}
 #nav {
 	display: none;
 }
