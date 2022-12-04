@@ -8,4 +8,4 @@ Meie veebilehe eesmärk on pakkuda inimestele lihtsasti kättesaadavat informats
 TÖÖJAOTUS:
 - Kadri-Ketter: üldine css, toitmise vaheleht ja selle css, pealeht ja selle css ning javascript(Fikesli veebilehelt)
 - Ann: hoolduse vaheleht ja selle css
-- Karl: mänguasjade vaheleht ja selle css
+- Karl: mänguasjade vaheleht ja selle css, veebilehe üles laadimine
